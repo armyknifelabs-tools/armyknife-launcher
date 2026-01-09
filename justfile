@@ -1,4 +1,4 @@
-export NAME := 'cosmic-launcher'
+export NAME := 'armyknife-launcher'
 export APPID := 'com.system76.CosmicLauncher'
 
 rootdir := ''

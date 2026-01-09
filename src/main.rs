@@ -14,7 +14,7 @@ fn main() -> cosmic::iced::Result {
     init_logging();
 
     info!(
-        "cosmic-launcher ({})",
+        "armyknife-launcher ({})",
         <app::CosmicLauncher as cosmic::Application>::APP_ID
     );
     info!("Version: {} ({})", VERSION, config::profile());

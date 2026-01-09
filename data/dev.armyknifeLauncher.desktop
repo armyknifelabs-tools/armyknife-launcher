@@ -20,14 +20,14 @@ Comment[ru]=Панель запуска COSMIC
 Comment[sk]=Spúšťač aplikácií pre prostredie COSMIC
 Comment[sv]=COSMIC Programstartare
 Type=Application
-Exec=cosmic-launcher
+Exec=armyknife-launcher
 Terminal=false
 Categories=COSMIC;
 # Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 Keywords=COSMIC;ICED;
 Keywords[ar]=COSMIC;آيسِد;
 # Translators: Do NOT translate or transliterate this text (this is an icon file name)!
-Icon=com.system76.CosmicLauncher
+Icon=dev.armyknifeLauncher
 StartupNotify=true
 X-HostWaylandDisplay=true
 NoDisplay=true

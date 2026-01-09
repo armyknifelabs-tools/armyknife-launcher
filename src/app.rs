@@ -310,7 +310,7 @@ impl cosmic::Application for CosmicLauncher {
     type Message = Message;
     type Executor = cosmic::executor::single::Executor;
     type Flags = Args;
-    const APP_ID: &'static str = "com.system76.CosmicLauncher";
+    const APP_ID: &'static str = "dev.armyknifeLauncher";
 
     fn init(mut core: Core, _flags: Args) -> (Self, Task<Message>) {
         core.set_keyboard_nav(false);
